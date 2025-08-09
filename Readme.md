@@ -16,8 +16,8 @@ Performs basic arithmetic operations with a clean and intuitive interface.
 ---
 
 ## 🚀 Demo
-You can try the calculator live here: *(Add your GitHub Pages link once deployed)*  
-Example: [Live Demo](https://yourusername.github.io/calculator)
+You can try the calculator live here:
+ (https://yourusername.github.io/calculator)
 
 ---
 
